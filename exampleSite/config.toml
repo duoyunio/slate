@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://msup.com/"
 languageCode = "en-us"
-title = "slate theme demo"
-theme = "slate"
+title = "Managed Service Unified Platform"
+theme = "MSUP"
 
 publishDir = "docs"
 
